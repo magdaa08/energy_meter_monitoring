@@ -2,7 +2,7 @@
 
 This Big Data project was developed for the Systems for Processing Big Data course at NOVA University Lisbon. 
 
-It focuses on processing and analyzing energy meter data using Apache Spark and Spark Streaming to handle both real-time and batch data processing. The system is designed to provide insights into energy consumption, detect anomalies and optimize energy usage patterns.
+It focuses on processing and analyzing energy meter data using PySpark DataFrames, SQL and PySpark Streaming to handle both real-time and batch data processing. The system is designed to provide insights into energy consumption, detect anomalies and optimize energy usage patterns.
 
 ## Collaborators
 
